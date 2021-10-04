@@ -1,0 +1,16 @@
+com\basaki\Application.class
+com\basaki\data\entity\Book.class
+com\basaki\error\exception\DatabaseException.class
+com\basaki\error\ExceptionProcessor.class
+com\basaki\service\BookService.class
+com\basaki\controller\CustomErrorController.class
+com\basaki\data\repository\BookRepository.class
+com\basaki\model\BookRequest.class
+com\basaki\data\repository\BookRepositoryImpl.class
+com\basaki\config\EtcdProperties.class
+com\basaki\config\SwaggerConfiguration.class
+com\basaki\config\DataConfiguration.class
+com\basaki\config\SpringMvcConfiguration.class
+com\basaki\error\exception\DataNotFoundException.class
+com\basaki\controller\BookController.class
+com\basaki\error\ErrorInfo.class
